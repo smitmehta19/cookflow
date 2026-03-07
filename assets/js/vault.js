@@ -55,10 +55,10 @@ mountLayout({
           </div>
 
           <div class="grid gap-4 md:grid-cols-2">
-            // <div>
-            //   <label class="mb-2 block text-xs uppercase tracking-wider text-zinc-400">Base servings</label>
-            //   <input id="baseServings" type="number" min="1" class="input" value="2" />
-            // </div>
+            <div>
+              <label class="mb-2 block text-xs uppercase tracking-wider text-zinc-400">Base servings</label>
+              <input id="baseServings" type="number" min="1" class="input" value="2" />
+            </div>
           </div>
 
           <div class="flex flex-wrap gap-3">
@@ -276,3 +276,4 @@ function renderRecipes() {
     `;
   }).join("");
 }
+
