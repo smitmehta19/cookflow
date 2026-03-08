@@ -212,13 +212,6 @@ function renderDashboard(userName) {
               <p class="mt-3 max-w-2xl text-zinc-400">
                 Save recipes, check what you already have, plan your week, and generate shopping lists without the mess.
               </p>
-
-              <div class="mt-4 flex flex-wrap gap-2">
-                <span class="pill">Cyberpunk meal planner</span>
-                <span class="pill">Pantry-aware cooking</span>
-                <span class="pill">Smart leftovers</span>
-                <span class="pill">Shopping automation</span>
-              </div>
             </div>
 
             <div class="grid w-full gap-3 sm:grid-cols-2 xl:grid-cols-4 lg:w-auto">
